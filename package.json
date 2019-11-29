@@ -34,8 +34,8 @@
     "@babel/core": "^7.7.4",
     "@babel/preset-env": "^7.7.4",
     "@nuxtjs/eslint-config": "^2.0.0",
-    "@vue/server-test-utils": "^1.0.0-beta.29",
-    "@vue/test-utils": "^1.0.0-beta.29",
+    "@vue/server-test-utils": "^1.0.0-beta.30",
+    "@vue/test-utils": "^1.0.0-beta.30",
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.9.0",
     "codecov": "^3.6.1",
@@ -71,7 +71,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-replace": "^2.2.0",
     "sass-loader": "^8.0.0",
-    "sort-package-json": "^1.24.0",
+    "sort-package-json": "^1.27.0",
     "vue-jest": "^4.0.0-beta.2"
   }
 }
